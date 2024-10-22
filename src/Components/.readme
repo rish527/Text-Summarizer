@@ -1,0 +1,2 @@
+Create .env file
+put your API Key in variable name VITE_API_KEY
